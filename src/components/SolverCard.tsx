@@ -9,7 +9,7 @@ import TypewriterMarkdown from './TypewriterMarkdown';
 
 const SolverCard: React.FC = () => {
     const [mode, setMode] = useState<'single' | 'double'>('single');
-    const [func, setFunc] = useState('x^2 + y^2');
+    const [func, setFunc] = useState('x^2');
     const [a, setA] = useState('0');
     const [b, setB] = useState('1');
     const [c, setC] = useState('0');
