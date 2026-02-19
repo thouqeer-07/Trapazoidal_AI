@@ -72,5 +72,3 @@ The results are displayed with a sleek typewriter animation and a corresponding 
     ```bash
     npm run dev
     ```
-4.  **Deploy to Netlify**:
-    Simply push to GitHub and connect your repository to Netlify. Make sure to set `GEMINI_API_KEY` in the Netlify Environment Variable settings!
